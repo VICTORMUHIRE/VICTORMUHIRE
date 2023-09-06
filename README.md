@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MUHIRE BUUNDA Victor</h1>
-<h3 align="center">A passionate software engeneer from Democratic replublic of congo, I have been learning artificial inteligence from 2020 and for now i'm able to train and deploy a machine learning and deeplearning model, and some hiest model like YOLO for deep image classification i use tensorflow and SKlearn and for an important aplication i use to train on google colab. I didn't stop earning skils now i'm learning software applications in laravel and java </h3>
+<h1 align="left">Hi 👋, I'm MUHIRE BUUNDA Victor</h1>
+<h3 align="left">A passionate software engeneer from Democratic replublic of congo, I have been learning artificial inteligence from 2020 and for now i'm able to train and deploy a machine learning and deeplearning model, and some hiest model like YOLO for deep image classification i use tensorflow and SKlearn and for an important aplication i use to train on google colab. I didn't stop earning skils now i'm learning software applications in laravel and java </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victormuhire&label=Profile%20views&color=0e75b6&style=flat" alt="victormuhire" /> </p>
 
