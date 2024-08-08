@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victormuhire&label=Profile%20views&color=0e75b6&style=flat" alt="victormuhire" /> </p>
 
-- 🔭 I’m currently working on **auditorium managment system**
+- 🔭 I’m currently working on **portofolio project**
 
-- 🌱 I’m currently learning **laravel, react-js**
+- 🌱 I’m currently learning **laravel, react-js, next js**
 
 - 📫 How to reach me **muhirevictor2020@gmail.com**
 
